@@ -1,0 +1,29 @@
+# Entornos virtuales
+env/
+venv/
+envcredit/
+.venv/
+
+# Archivos temporales de Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Configuraciones locales
+.vscode/
+.idea/
+
+# Datos y modelos
+*.sav
+*.db
+*.sqlite3
+
+# Logs y resultados
+*.log
+*.out
+*.tmp
+
+# Carpetas del sistema
+.DS_Store
+Thumbs.db
